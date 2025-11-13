@@ -9,7 +9,8 @@ public class Interaction : MonoBehaviour
     public float checkRate = 0.05f;
     private float lastCheckTime;
     public float maxCheckDistance;
-    public LayerMask layerMask;
+    public LayerMask layerMask1;
+    public LayerMask layerMask2;
 
     public GameObject curInteractGameObject;
     private IInteractable curInteractable;
@@ -33,7 +34,7 @@ public class Interaction : MonoBehaviour
             Ray ray = camera.ScreenPointToRay(new Vector3(Screen.width / 2, Screen.height / 2));
             RaycastHit hit;
 
-            if (Physics.Raycast(ray, out hit, maxCheckDistance, layerMask))
+            if (Physics.Raycast(ray, out hit, maxCheckDistance, layerMask1)|| Physics.Raycast(ray, out hit, maxCheckDistance, layerMask2))
             {
                 if (hit.collider.gameObject != curInteractGameObject)
                 {
