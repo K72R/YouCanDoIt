@@ -20,6 +20,10 @@ public class ItemObject : MonoBehaviour, IInteractable
 
     public void Oninteract()
     {
+        if (CompareTag("SuperJump"))
+        {
+            return;
+        }
         CharacterManager.Instance.Player.itemData = data;
         CharacterManager.Instance.Player.addItem?.Invoke();
         Destroy(gameObject);

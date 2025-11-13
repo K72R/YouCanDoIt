@@ -174,6 +174,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Item_Jump (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -400,7 +404,7 @@ GameObject:
   - component: {fileID: 91770795}
   m_Layer: 0
   m_Name: JumpPad
-  m_TagString: Untagged
+  m_TagString: SuperJump
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -633,6 +637,10 @@ PrefabInstance:
     - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
@@ -1020,6 +1028,10 @@ PrefabInstance:
     - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
@@ -1555,6 +1567,10 @@ PrefabInstance:
     - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
@@ -2425,6 +2441,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
+      objectReference: {fileID: 0}
     - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
       value: 10
@@ -2600,6 +2620,10 @@ PrefabInstance:
     - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3252,6 +3276,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
+      objectReference: {fileID: 0}
     - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
       value: 10
@@ -3755,6 +3783,10 @@ PrefabInstance:
     - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
       propertyPath: m_Name
       value: Item_Jump3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5458,6 +5490,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
+      objectReference: {fileID: 0}
     - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
       value: 10
@@ -5811,6 +5847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Item_SavePoint (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1056319548665989615, guid: faa12fc9141117443afcae5d55b11298, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
+      objectReference: {fileID: 0}
     - target: {fileID: 4948540338148763966, guid: faa12fc9141117443afcae5d55b11298, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.64
@@ -5924,6 +5964,10 @@ PrefabInstance:
     - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6401,6 +6445,10 @@ PrefabInstance:
     - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     - target: {fileID: 7244549082713067718, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
       propertyPath: m_Layer
@@ -7254,6 +7302,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
+      objectReference: {fileID: 0}
     - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Layer
       value: 10
@@ -7358,6 +7410,10 @@ PrefabInstance:
     - target: {fileID: 1056319548665989615, guid: faa12fc9141117443afcae5d55b11298, type: 3}
       propertyPath: m_Name
       value: Item_SavePoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 1056319548665989615, guid: faa12fc9141117443afcae5d55b11298, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     - target: {fileID: 4948540338148763966, guid: faa12fc9141117443afcae5d55b11298, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7520,6 +7576,10 @@ PrefabInstance:
     - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
       propertyPath: m_Layer
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
+      propertyPath: m_TagString
+      value: SuperJump
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
