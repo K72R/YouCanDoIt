@@ -3784,10 +3784,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Item_Jump3
       objectReference: {fileID: 0}
-    - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
-      propertyPath: m_TagString
-      value: SuperJump
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5847,10 +5843,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Item_SavePoint (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 1056319548665989615, guid: faa12fc9141117443afcae5d55b11298, type: 3}
-      propertyPath: m_TagString
-      value: SuperJump
-      objectReference: {fileID: 0}
     - target: {fileID: 4948540338148763966, guid: faa12fc9141117443afcae5d55b11298, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.64
@@ -5909,10 +5901,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 91770795}
     m_Modifications:
-    - target: {fileID: 2291847138832735939, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 2485279861070553563, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.97
@@ -5953,21 +5941,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5094029639230126957, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
-      propertyPath: data
-      value: 
-      objectReference: {fileID: 11400000, guid: 0f720489a34cb394ebf618e691a5a25d, type: 2}
     - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
       propertyPath: m_Name
       value: Item_Jump2 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 8281142346300549943, guid: a9b50fb66b2c1594cb8de91e4ab37ed5, type: 3}
-      propertyPath: m_TagString
-      value: SuperJump
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6394,10 +6370,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2687041479594762213, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
-      propertyPath: data
-      value: 
-      objectReference: {fileID: 11400000, guid: 0345d26f3303e464ba0202e4da5d4f0b, type: 2}
     - target: {fileID: 4214125008585952920, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 23.23
@@ -6441,18 +6413,6 @@ PrefabInstance:
     - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
       propertyPath: m_Name
       value: Item_Jump3 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5701935722832264801, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
-      propertyPath: m_TagString
-      value: SuperJump
-      objectReference: {fileID: 0}
-    - target: {fileID: 7244549082713067718, guid: b2c13dec72c7bf74e8a533918cbfddcb, type: 3}
-      propertyPath: m_Layer
-      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7286,29 +7246,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 787057659771084205, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
-      propertyPath: m_Size.y
-      value: 0.3593461
-      objectReference: {fileID: 0}
-    - target: {fileID: 787057659771084205, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
-      propertyPath: m_Center.y
-      value: 0.49792883
-      objectReference: {fileID: 0}
     - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
       propertyPath: m_Name
       value: Item_Jump
-      objectReference: {fileID: 0}
-    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 1500909403410209100, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
-      propertyPath: m_TagString
-      value: SuperJump
-      objectReference: {fileID: 0}
-    - target: {fileID: 7012534981367014491, guid: 0645e0e69b183264fb9fef1f2af305d8, type: 3}
-      propertyPath: m_Layer
-      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

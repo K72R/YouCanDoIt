@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2687041479594762213}
   m_Layer: 10
   m_Name: Item_Jump3
-  m_TagString: Untagged
+  m_TagString: SuperJump
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

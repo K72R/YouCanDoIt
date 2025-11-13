@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3919116423706521133}
   - component: {fileID: 1294854791752291240}
   - component: {fileID: 4010905115323061357}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Mushroom1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,9 +96,9 @@ GameObject:
   - component: {fileID: 2362160179707849430}
   - component: {fileID: 5178335135488577863}
   - component: {fileID: 5094029639230126957}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Item_Jump2
-  m_TagString: Untagged
+  m_TagString: SuperJump
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
