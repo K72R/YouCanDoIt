@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6526067290082113642}
   - component: {fileID: 6630466586172263076}
   - component: {fileID: 2811863010017377920}
+  - component: {fileID: 359926742367169947}
   m_Layer: 10
   m_Name: Item_SavePoint
   m_TagString: Untagged
@@ -54,8 +55,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1.8429759, y: 1.5441961, z: 3.1187508}
-  m_Center: {x: 0.015777618, y: 0.74045324, z: 0.011210084}
+  m_Size: {x: 1.8429759, y: 0.5494108, z: 3.1187508}
+  m_Center: {x: 0.015777588, y: 0.24306053, z: 0.011210084}
 --- !u!114 &6630466586172263076
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83,6 +84,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   data: {fileID: 11400000, guid: db16d5ca91f22724389a5fe3fb1604b7, type: 2}
+--- !u!114 &359926742367169947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1056319548665989615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 682b7688b81565548805cfb0f284b1ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpPower: 80
 --- !u!1 &5794776002584952465
 GameObject:
   m_ObjectHideFlags: 0
